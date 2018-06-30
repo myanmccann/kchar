@@ -48,6 +48,6 @@ For this later case, we can evaluate the perplexity using a precomputed --init f
 python evaluate.py --model cv/char-large --vocabulary data/ptb/vocab.npz --init init.npy --text data/ptb/test.txt
 ```
 
-### Licence
+### License
 MIT
 
